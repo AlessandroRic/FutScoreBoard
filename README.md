@@ -38,8 +38,6 @@ composer run-script run-scoreboard
 
 ## Testing
 
-```
-
 2. Run tests:
 ```
 composer tests
